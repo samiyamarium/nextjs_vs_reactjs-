@@ -1,0 +1,34 @@
+.Body{
+    background-color: rgb(221, 9, 221);
+    color: floralwhite;
+    padding: 0px 10px 0px 10px;
+    
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+    background-image: url("art.jpg");
+   
+    
+}
+.nav{
+    background-color: antiquewhite;
+    color: blue;
+    border: burlywood;
+    border-radius: 25%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: larger;
+    font-family: cursive;
+    text-align: center;
+}
+.reac{
+    background-color: antiquewhite;
+    color: blue;
+    border: burlywood;
+    border-radius: 25%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: larger;
+    font-family: cursive;
+    text-align: left;
+}
